@@ -1,2 +1,2 @@
-# trau-o-summertime-saga
-Tradução do jogo summertime saga
+# Tradução Summertime Saga
+Tradução do jogo Summertime Saga
